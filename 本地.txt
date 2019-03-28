@@ -30,3 +30,5 @@ $:git fetch
 http://stackoverflow.com/questions/11646107/you-have-not-concluded-your-merge-merge-head-exists
 http://yijiebuyi.com/blog/5b55eb51ad49ce41e2de9c85dd4513ca.html
 http://blog.csdn.net/hudashi/article/details/7664457
+
+更改
